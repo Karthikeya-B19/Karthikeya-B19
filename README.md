@@ -93,6 +93,6 @@ Lightweight knowledge-distilled YOLOv11 model for industrial defect detection.
 
 ## 📫 Connect With Me
 
-📧 **Email:** cb.ai.u4aid23109@cb.students.amrita.edu
+📧 **Email:** karthikeya19112005@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/bellapukonda-karthikeya
